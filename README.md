@@ -30,7 +30,7 @@ SEND ORDER:
  
  ########################################################################################################################
  
- There is alot that has been changed in the raw script in order to protect our data but i can assist with supplying the correct fields upon request. 
+ There is alot that has been changed in the raw script and dummy files in order to protect our data but i can assist with supplying the correct fields upon request. 
 
 
-S
+S. Bonner
